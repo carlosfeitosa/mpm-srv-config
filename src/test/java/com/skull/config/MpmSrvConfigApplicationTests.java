@@ -8,6 +8,8 @@ class MpmSrvConfigApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		MpmSrvConfigApplication.main(new String[] {});
 	}
 
 }
